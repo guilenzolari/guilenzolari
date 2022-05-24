@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @guilenzolari
 - 👀 I’m interested in Data Science, tecnology and AI
-- 🌱 I’m currently learning python, Julia, octave
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me guilenzolari@hotmail.com
+- 🌱 I’m currently learning python, Julia, octave, html, css and C
+- 📫 How to reach me guilenzolari@hotmail.com or https://www.linkedin.com/in/guilherme-lenzolari/
 
 <!---
 guilenzolari/guilenzolari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
