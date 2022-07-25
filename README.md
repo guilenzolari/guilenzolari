@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou o @guilenzolari
+- 👋 Oi, eu sou o Guilherme Lenzolari
 - 🎓 Sou graduando em Engenharia Química pela Unicamp
 - 👀 Tenho interesse em desenvolvimento de aplicativos e data science
 - 🌱 Estou estudandando para me inserir no mercado, estudo linguagens como Python, Octave, html, css and C
