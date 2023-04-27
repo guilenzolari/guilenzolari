@@ -1,8 +1,7 @@
-- 👋 Oi, eu sou o Guilherme Lenzolari
-- 🎓 Sou graduando em Engenharia Química pela Unicamp
-- 👀 Tenho interesse em desenvolvimento de aplicativos e data science
-- 🌱 Estou estudandando para me inserir no mercado, estudo linguagens como Python, Octave, html, css and C
-- 📫 Meu Linked In é https://www.linkedin.com/in/guilherme-lenzolari/
+- 👋 Hi, I'm Guilherme Lenzolari
+- 🎓 I'm an undergraduate student in Chemical Engineering at Unicamp
+- 👀 I'm interested in app development and data science
+- 📫 My LinkedIn profile is https://www.linkedin.com/in/guilherme-lenzolari/
 
 <div align="center">
   <a href="https://github.com/guilenzolari">
