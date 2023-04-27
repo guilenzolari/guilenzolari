@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Guilherme Lenzolari
 - 🎓 I'm an undergraduate student in Chemical Engineering at Unicamp
-- 👀 I'm interested in app development and data science
+- 👀 I'm interested in iOS app development and data science
 - 📫 My LinkedIn profile is https://www.linkedin.com/in/guilherme-lenzolari/
 
 <div align="center">
